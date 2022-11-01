@@ -2,4 +2,10 @@
 
 
 * Länkar
-| [[./index.org][Information]] | [[./lektion1.org][Lektion 1]] | [[./lektion2.org][Lektion 2]]  |
+| [[./index.org][Information]] | [[./lektion1.org][Lektion 1]] | [[./lektion2.org][Lektion 2]] |
+
+
+
+* Vad fan är detta för skit?
+
+[[https://www.menti.com][Menti]] 3395 5681
